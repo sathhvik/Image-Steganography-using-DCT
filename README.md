@@ -21,10 +21,9 @@ A Python-based tool for **hiding secret messages inside images** using **Discret
 - OpenCV
 - Tkinter
 - NumPy, SciPy
-- Pillow (for image display)
+
 
 ---
 
 
-git clone https://github.com/<your-username>/DCT-Steganography.git
 cd DCT-Steganography
