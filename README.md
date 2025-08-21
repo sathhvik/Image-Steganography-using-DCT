@@ -26,4 +26,4 @@ A Python-based tool for **hiding secret messages inside images** using **Discret
 ---
 
 
-cd DCT-Steganography
+
